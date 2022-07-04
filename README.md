@@ -2,7 +2,7 @@
 ## Purpose 
 ### The purpose of this repository is to analyze if the money for charities funded from Alphabet Soup was used successfully. 
 ## Results
-* The Target Varialble for our analysis is the 'IS SUCCESSFUL' column in our dataframe. This column lets us know if the money given to the charity was used successfully. 
+* The Target Variable for our analysis is the 'IS SUCCESSFUL' column in our dataframe. This column lets us know if the money given to the charity was used successfully. 
 * The features ouf our model are application type, affiliation, classification, use case, organizatiohn, income_amt, ask_amt, and special considerations. 
 * The columns that are not targets or features and can be removed are Name, EIN, and Status can be removed from out dataframe. 
 
